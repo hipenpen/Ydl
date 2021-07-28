@@ -6,6 +6,8 @@ Jupyter or Colab
 ```bash
 !pip install Ydl
 ```
+# Pypi
+[Ydl](https://pypi.org/project/Ydl/)
 # Usage
 
 ```python
